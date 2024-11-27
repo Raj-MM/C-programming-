@@ -1,4 +1,4 @@
-/*Aim: WAP to maintain a simple employee using file handling.
+/*Aim: WAP to maintain a simple employee database using file handling.
 Name : Raj Maurya
 Roll No : 8
 UIN : 241A008
